@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8"</meta>
+    <title>Johnny's Grilled Cheese</title>
+  </head>
+  <body>
+    <h1>Johnny's Grilled Cheese</h1>
+    <p>Simple but delious grilled cheese sandwich!</p>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>Sourdough Bread</li>
+      <li>Butter</li>
+      <li>America Cheese</li>
+      <li>Salt</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li>Put a spoon of butter on the pan.</li>
+      <li>Cut out the sourdough breads and place it on the pan.</li>
+      <li>Cook both sides until it's lightly toasted and add in the american cheese.</li>
+      <li>Cook and flip until the cheese melt and both sides are golden brown</li>
+    </ol>
+    <img src="Grilledcheese.jpg" alt="Nothing better than a grilled cheese Sandwich!">
+    </body>
+</html>
