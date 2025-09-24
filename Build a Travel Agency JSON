@@ -1,7 +1,14 @@
 <!DOCTYPE html>
   <html lang="en">
     <head>
-      <meta name="description"
-      <meta charset="utf-8"</meta>
+      <meta name="description" content="Travel agency website">
+      <meta charset="utf-8">
+      <title>My Travel Agency</title>
       </head>
+      <body>
+        <h1>Explore NYC</title>
+        <p>Travel opportunities</p>
+        <h2>Packages</h2>
+        <p>cool packages like pizza</p>
+        </body>
     </html>
