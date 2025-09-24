@@ -1,14 +1,37 @@
 <!DOCTYPE html>
-  <html lang="en">
-    <head>
-      <meta name="description" content="Travel agency website">
-      <meta charset="utf-8">
-      <title>My Travel Agency</title>
-      </head>
-      <body>
-        <h1>Explore NYC</title>
-        <p>Travel opportunities</p>
-        <h2>Packages</h2>
-        <p>cool packages like pizza</p>
-        </body>
-    </html>
+<html lang="en">
+  <head>
+    <meta name="description" content="Travel agency website">
+    <meta charset="UTF-8">
+    <title>My Travel Agency</title>
+  </head>
+  <body>
+    <h1>Explore The World</h1>
+    <p>We offer exciting travel opportunities around the world!</p>
+    <h2>Packages</h2>
+    <p>Choose from a variety of packages.</p>
+    <ul>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+    </ul>
+    <h2>Top Itineraries</h2>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Destination 1">
+      </a>
+      <figcaption>Destination 1</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Destination 2">
+      </a>
+      <figcaption>Destination 2</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Destination 3">
+      </a>
+      <figcaption>Destination 3</figcaption>
+    </figure>
+  </body>
+</html>
