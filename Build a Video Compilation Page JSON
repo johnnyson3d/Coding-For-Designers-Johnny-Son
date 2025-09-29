@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+<main>
+    <h1>Build a Video Compilation Page</h1>
+    <p>we are going to build a video tutorial.<p>
+        <section>
+            <h2>How to Build Video Part 1</h2>
+                <p>video part 1 shows the first step.</p>
+                    <iframe src="https://www.youtube.com/watch?v=GDGejH3SDNQ" title="video1" height="400" width="400"></iframe>
+            </section>
+            <section>
+                <h2>How to Build Video Part 2</h2>
+                <p>Video part 2 shows the second step</p>
+                    <iframe src="https://www.youtube.com/watch?v=OXGznpKZ_sA" title="video2" height="400" width="400"></iframe>
+                    </secton>
+                    <section>
+                        <h2>How to Build Video Part 3</h2>
+                        <p>video part 3 shows the last step.</p>
+                        <iframe src="https://www.youtube.com/watch?v=jS4aFq5-91M" title="video3" height="400" width="400"></iframe>
+                            </section>
+    </main>
+</body>
+
+</html>
