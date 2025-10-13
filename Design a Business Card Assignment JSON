@@ -1,0 +1,72 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Business Card</title>
+    <LINK rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="business-card">
+      <img class="profile-image"  src=https://cdn.freecodecamp.org/curriculum/labs/flower.jpg  alt ="Profile photo of Johnny Son"</img>
+    <p class="full-name">Johnny Son</p>
+    <p class="designation">UX Designer<p>
+      <p class="company">Kingsborough</p>
+      <hr>
+      <p>johnnyson@email.com</p>
+      <p>123-456-7890</p>
+      <a class="portfolio-link" href="https://example.com">Portfolio</a>
+      <hr>
+    <div class="social-media">
+      <h2>Connect with me</h2>
+      <a href="https://twitter.com">Twitter</a>
+      <a href="https://linkedin.com">LinkedIn</a>
+      <a href="https://github.com">GitHub</a>
+
+    </div>
+</body>
+
+</html>
+
+** end of index.html **
+
+** start of styles.css **
+
+/* 1. Body styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: rosybrown;
+}
+
+/* 2. Paragraph styling */
+p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+/* 3. Link styling */
+.business-card {
+  width: 300px;
+  background-color: lightgray;
+  padding: 20px;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 16px;
+  text-align: center;
+}
+
+/* 4. Business card container */
+a {
+  text-decoration: none;
+}
+
+/* 5. Profile image styling */
+.profile-image {
+  max-width: 100%;
+}
+
+** end of styles.css **
