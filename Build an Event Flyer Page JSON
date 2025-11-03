@@ -1,3 +1,5 @@
+** start of index.html **
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -5,18 +7,55 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Build an Event Flyer Page</title>
+   <link rel="stylesheet" href="styles.css"></link>
 </head>
 
 <body>
   <header>
-     <img src="https://cdn.freecodecamp.org/curriculum/labs/event.jpg"
-    <h1>Event Title</h1>
+     <img src="https://cdn.freecodecamp.org/curriculum/labs/event.jpg" alt="Event Image">
+    <h1>Coding Event Day</h1>
     </header>
+    <hr>
 <main>
   <section>
+    <h2>Date:</h2>
     </section>
     <section>
+      <h2>Location:</h2>
       <section>
 </body>
 
 </html>
+
+** end of index.html **
+
+** start of styles.css **
+
+body {
+  padding: 50px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100vw;
+  min-height: calc(100vh - 100px)
+}
+
+hr {
+  width: 80%;
+}
+
+section {
+  width: 10%;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+** end of styles.css **
