@@ -1,4 +1,4 @@
-Start of HTML
+** start of index.html **
 
 <!DOCTYPE html>
 <html lang="en">
@@ -35,9 +35,9 @@ Start of HTML
   </body>
 </html>
 
-End of HTML
+** end of index.html **
 
-Start of CSS
+** start of styles.css **
 
 body {
   font-family: Arial, sans-serif;
@@ -125,4 +125,4 @@ section:target {
   display: block;
 }
 
-end of CSS
+** end of styles.css **
